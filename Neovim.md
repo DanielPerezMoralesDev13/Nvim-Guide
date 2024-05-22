@@ -1,3 +1,6 @@
+<!-- Autor: Daniel Benjamin Perez Morales -->
+<!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
+<!-- Correo electrónico: danielperezdev@proton.me  -->
 # **_Instalación y Uso de Neovim en Linux_**
 
 ## _**Instalación**_
